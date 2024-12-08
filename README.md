@@ -15,7 +15,7 @@ TODO:
 - heap w/ topk problem example
 
 patterns:
-- prefix sum (failed w/ alex)
+- prefix sum (failed)
 - two pointer (same as above)
 - sliding window (same as above)
 - flood fill
